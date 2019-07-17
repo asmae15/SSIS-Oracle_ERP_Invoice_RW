@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "RentalWorksInvoices", "RentalWorksInvoices\RentalWorksInvoices.dtproj", "{1AE64222-6486-4654-899C-FC235517A2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE64222-6486-4654-899C-FC235517A2DA}.Development|Default.ActiveCfg = Development
+		{1AE64222-6486-4654-899C-FC235517A2DA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FDEC34B-B533-4760-AD0A-3063F2814203}
+	EndGlobalSection
+EndGlobal
